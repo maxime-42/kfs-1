@@ -2,7 +2,7 @@
 # Booting Concepts README
 
 1. **Introduction**
-   - [When you turn on a computer](#when-you-turn-on-a-computer)
+   - [When you turn on a computer](#[when-you-turn-on-a-computer](https://github.com/maxime-42/kfs-1/tree/main?tab=readme-ov-file#introduction-when-you-turn-on-a-computer:~:text=Introduction%3A%20When%20You%20Turn%20On%20a%20Computer))
   
 2. **Bootloader Basics**
    - [Bootloader Definition](#bootloader-definition)
