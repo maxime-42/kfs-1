@@ -2,7 +2,7 @@
 # Booting Concepts README
 
 1. **Introduction**
-   - [When you turn on a computer](#Introduction: When-You-Turn-On-a-Computer)
+   - [When you turn on a computer](# Introduction: When You Turn On a Computer)
 
 2. **Bootloader Basics**
    - [Bootloader Definition](#bootloader-definition)
