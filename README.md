@@ -14,7 +14,7 @@
 
 3. **Advanced Booting Concepts**
    - [multiboot](https://github.com/maxime-42/kfs-1/tree/main#multiboot-standard)
-   - [multi_compliant](#multi_compliant)
+   - [multi_compliant](https://github.com/maxime-42/kfs-1/tree/main#multiboot-a-festival-of-operating-systems)
    - [Toolchain Crosscompiler](https://github.com/maxime-42/kfs-1/tree/main#toolchain-and-cross-compiler)
 
 
