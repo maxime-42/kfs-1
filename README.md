@@ -6,16 +6,16 @@
 
 2. **Bootloader Basics**
    - [Bootloader Definition](https://github.com/maxime-42/kfs-1/tree/main?tab=readme-ov-file#bootloader-overview)
-   - [What is GRUB](#what-is-grub)
+   - [What is GRUB](https://github.com/maxime-42/kfs-1/blob/main/README.md#what-is-grub)
    - [MBR (Master Boot Record)](https://github.com/maxime-42/kfs-1/tree/main?tab=readme-ov-file#master-boot-record-mbr-analogy)
-   - [Bootloader vs MBR](#bootloader-vs-mbr)
-   - [GRUB vs Bootloader](#grub-vs-bootloader)
-   - [Bootloader vs Bootstrapping](#bootloader-vs-bootstrapping)
+   - [Bootloader vs MBR](https://github.com/maxime-42/kfs-1/tree/main#mbr-master-boot-record-vs-bootloader)
+   - [GRUB vs Bootloader](https://github.com/maxime-42/kfs-1/tree/main#grub-vs-bootloaders)
+   - [Bootloader vs Bootstrapping](https://github.com/maxime-42/kfs-1/tree/main#bootloader-vs-bootstrapping)
 
 3. **Advanced Booting Concepts**
-   - [multiboot](#multiboot)
+   - [multiboot](https://github.com/maxime-42/kfs-1/tree/main#multiboot-standard)
    - [multi_compliant](#multi_compliant)
-   - [Toolchain Crosscompiler](#toolchain-crosscompiler)
+   - [Toolchain Crosscompiler](https://github.com/maxime-42/kfs-1/tree/main#toolchain-and-cross-compiler)
 
 
 
