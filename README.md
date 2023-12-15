@@ -181,6 +181,9 @@ There seems to be a slight typo in your question. I assume you meant "GRUB" and 
 ## Bootloader Overview:
 
 A bootloader is a small program residing in a system's boot sector or a designated boot partition. Its primary responsibility is to load the operating system into memory during the computer's startup, playing a crucial role in the boot process.
+The address 0x7C00 is located in the lower memory area of the x86 architecture, specifically in the first 32 KB of physical memory. In the x86 real mode, which is the mode used during the initial stages of the boot process, addresses are interpreted as physical addresses.
+
+The system's RAM typically starts at address 0x00000 and extends upward. The 0x7C00 address is part of the first 512 bytes (the first sector) of a storage device, which is loaded into memory by the BIOS during the boot process. This specific address, 0x7C00, is where the BIOS places the bootloader code, and it serves as the entry point for the boot process.
 
 ## GRUB (GRand Unified Bootloader):
 
