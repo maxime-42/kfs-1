@@ -5,9 +5,9 @@
    - [When you turn on a computer](https://github.com/maxime-42/kfs-1/tree/main?tab=readme-ov-file#introduction-when-you-turn-on-a-computer)
 
 2. **Bootloader Basics**
-   - [Bootloader Definition](#bootloader-definition)
+   - [Bootloader Definition](https://github.com/maxime-42/kfs-1/tree/main?tab=readme-ov-file#bootloader-overview)
    - [What is GRUB](#what-is-grub)
-   - [MBR (Master Boot Record)](#mbr-master-boot-record)
+   - [MBR (Master Boot Record)](https://github.com/maxime-42/kfs-1/tree/main?tab=readme-ov-file#master-boot-record-mbr-analogy)
    - [Bootloader vs MBR](#bootloader-vs-mbr)
    - [GRUB vs Bootloader](#grub-vs-bootloader)
    - [Bootloader vs Bootstrapping](#bootloader-vs-bootstrapping)
@@ -75,6 +75,33 @@ A bootloader is a program or set of programs that initiates the process of loadi
   - UEFI firmware itself can function as a bootloader.
 
 The bootloader plays a critical role in the boot process, facilitating the computer's startup and the loading of the operating system.
+
+# What is GRUB:
+
+GRUB, or the GRand Unified Bootloader, stands as a widely used boot loader in the world of operating systems, playing a pivotal role in initiating the operating system when a computer is powered on. Let's unravel the functionality of GRUB through a real-world analogy:
+
+## Analogy: Your Computer as a Library
+
+1. **Entering the Library (Powering On):**
+   - You turn on your computer, akin to entering a library.
+
+2. **Approaching the Librarian (GRUB):**
+   - Instead of heading straight to the shelves (operating system), you approach the librarian (GRUB). This knowledgeable librarian knows the whereabouts of each book and how to handle various types of books (different operating systems).
+
+3. **Requesting Your Book (Loading the Operating System):**
+   - You inform the librarian (GRUB) about the specific book (operating system) you want to read. GRUB comprehends your request and adeptly fetches the book from the shelves.
+
+4. **Finding a Comfortable Spot (Loading into Memory):**
+   - Once GRUB has the book, it guides you to find a comfortable spot (loads the operating system into memory) where you can commence reading without interruptions.
+
+5. **Enjoying Your Book (Operating System Running):**
+   - With the book (operating system) loaded, you can now relish reading and interact with the content seamlessly.
+
+## Summary:
+
+In essence, GRUB assumes the role of a helpful librarian in a library, assisting you in locating and loading the specific book (operating system) you wish to engage with when you power on your computer. It ensures a seamless transition from the initial computer startup to the full operation of your chosen operating system. Much like a librarian facilitating your reading journey, GRUB facilitates the smooth initiation of your preferred operating system on your computer.
+
+
 # Master Boot Record (MBR) Analogy
 
 In real-world terms, understanding the Master Boot Record (MBR) can be likened to examining the table of contents in a book.
