@@ -345,3 +345,4 @@ A toolchain and a cross-compiler are intertwined concepts in the realm of softwa
   - Envision developing software on a Windows computer (x86 architecture) to create an executable for a Raspberry Pi (ARM architecture). The amalgamation of tools used, including the compiler, linker, etc., constitutes the toolchain. Within this toolchain, the specific compiler responsible for generating ARM-compatible code is the cross-compiler.
 
 In summary, a toolchain is an encompassing set of development tools, and a cross-compiler is a specialized compiler within that toolchain, engineered to generate code for a diverse target architecture. Cross-compilers shine in scenarios where development and target platforms exhibit distinct architectures.
+<img width="413" alt="Capture d’écran 2023-12-20 à 13 05 01" src="https://github.com/maxime-42/kfs-1/assets/88286839/7208a4ee-0f2b-444b-8cb0-e12fecab4b7e">
