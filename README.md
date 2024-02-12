@@ -138,6 +138,7 @@ MBR (Master Boot Record) and a bootloader play distinct roles in the computer bo
 
 - **Function:**
   - MBR contains partition table information and a small executable code. During boot, the BIOS executes this code to find the active partition and transfer control to the bootloader.
+<img width="510" alt="Capture d’écran 2023-12-20 à 13 23 14" src="https://github.com/maxime-42/kfs-1/blob/main/mbr.png">
 
 - **Limitations:**
   - MBR has limitations, such as supporting a maximum of four primary partitions or three primary partitions and one extended partition.
