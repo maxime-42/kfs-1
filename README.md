@@ -138,7 +138,7 @@ MBR (Master Boot Record) and a bootloader play distinct roles in the computer bo
 
 - **Function:**
   - MBR contains partition table information and a small executable code. During boot, the BIOS executes this code to find the active partition and transfer control to the bootloader.
-<img width="510" alt="Capture d’écran 2023-12-20 à 13 23 14" src="https://github.com/maxime-42/kfs-1/blob/main/mbr.png">
+<img width="510" alt="Capture d’écran 2023-12-20 à 13 23 14" src="https://github.com/maxime-42/kfs-1/blob/main/schema/mbr.png">
 
 - **Limitations:**
   - MBR has limitations, such as supporting a maximum of four primary partitions or three primary partitions and one extended partition.
@@ -351,5 +351,5 @@ In summary, a toolchain is an encompassing set of development tools, and a cross
 <img width="410" alt="Capture d’écran 2023-12-20 à 13 23 14" src="https://github.com/maxime-42/kfs-1/assets/88286839/4cf5a5f1-87cd-425a-9db9-3911c4e98f08">
 
 
-<img width="410" alt="Capture d’écran 2023-12-20 à 13 23 14" src="https://github.com/maxime-42/kfs-1/blob/main/boot_process.png">
+<img width="410" alt="Capture d’écran 2023-12-20 à 13 23 14" src="https://github.com/maxime-42/kfs-1/blob/main/schema/boot_process.png">
 
