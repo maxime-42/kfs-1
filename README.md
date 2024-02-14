@@ -348,7 +348,7 @@ A toolchain and a cross-compiler are intertwined concepts in the realm of softwa
 In summary, a toolchain is an encompassing set of development tools, and a cross-compiler is a specialized compiler within that toolchain, engineered to generate code for a diverse target architecture. Cross-compilers shine in scenarios where development and target platforms exhibit distinct architectures.
 
 ## Schema boot process
-<img width="410" alt="Capture d’écran 2023-12-20 à 13 23 14" src="https://github.com/maxime-42/kfs-1/assets/88286839/4cf5a5f1-87cd-425a-9db9-3911c4e98f08">
+<img width="410" alt="Capture d’écran 2023-12-20 à 13 23 14" src="https://github.com/maxime-42/kfs-1/blob/main/schema/boot_process_1.png">
 
 
 <img width="410" alt="Capture d’écran 2023-12-20 à 13 23 14" src="https://github.com/maxime-42/kfs-1/blob/main/schema/boot_process.png">
