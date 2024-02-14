@@ -15,7 +15,7 @@ Once the bootable device is found, the  [BIOS](https://www.scaler.com/topics/ope
 ## How does a Bootloader Work?
 
 
-<img width="610" alt="Capture d’écran 2023-12-20 à 13 23 14" src="https://github.com/maxime-42/kfs-1/schema/blob/main/mbr.png">
+<img width="610" alt="Capture d’écran 2023-12-20 à 13 23 14" src="https://github.com/maxime-42/kfs-1/blob/schema/main/mbr.png">
 
 
 <img width="610" alt="Capture d’écran 2023-12-20 à 13 23 14" src="https://github.com/maxime-42/kfs-1/blob/main/what-is-bootloader-image1.webp">
